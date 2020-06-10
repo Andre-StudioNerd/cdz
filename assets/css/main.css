@@ -1542,11 +1542,12 @@ input, select, textarea {
 		}
 
 			#header nav a {
-				color: #c6c8c8;
+				color: #fff;
 				text-decoration: none;
 				font-size: 1.4em;
 				margin-left: 60px;
 				outline: 0;
+				font-weight: bold;
 			}
 
 				#header nav a:hover {
